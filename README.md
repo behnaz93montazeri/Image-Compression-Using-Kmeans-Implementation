@@ -5,8 +5,9 @@
 This project implements image compression using the K-means clustering algorithm. It reduces the number of colors in an image, allowing you to compress it while maintaining visual quality. The project includes a custom implementation of K-means, and it demonstrates the compression process using both artificial datasets from the scikit-learn library and real images.
 
 ## Usage
-- make sure that you put the image "image_color.jpg" in the same directory as the Jupyter Notebook is.
 
+- Code and comments explaining the workflow is available in Jupyter Notebook (Image Compression using KMeans implementation-Project.ipynb) 
+- make sure that you put the image "image_color.jpg" in the same directory as the Jupyter Notebook is.
 - Feel free to explore the code, data, and results within each project directory.
 
 ## Depencencies 
